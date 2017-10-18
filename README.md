@@ -1,2 +1,3 @@
 # C_codes
-C codes written as a freshman Undergraduate._Portfolio purposes only.
+These codes are part of C programming class that I took as a freshman undergraduate.
+These codes are for Portfolio purposes only.
